@@ -11,3 +11,6 @@
 ## Технологии
 
 HTML, CSS Grid, Flexbox, CSS-переменные, медиазапросы и JavaScript для переключения темы.
+
+
+Репозиторий проекта: https://github.com/Saakoz14/slozhno-sosredotochitsya-ad
